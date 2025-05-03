@@ -35,6 +35,3 @@ fft-8point-verilog/
 
 ## Contributing
 Submit issues or pull requests for improvements or bug fixes.
-
-## License
-MIT License
